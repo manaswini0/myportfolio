@@ -1,0 +1,16 @@
+.pcontainer{
+    /*padding-right: 70%;*/
+    position: absolute;
+    /*right:30%;*/
+    /*left:30px;*/
+    padding: 0 30px 50px 50px;
+    height: 100vh;
+    /*background: #A295FF;*/
+
+}
+
+.project--container{
+    background: #A295FF;
+    /*padding-right: 70%;*/
+    /*padding: 0 50px 50px 50px;*/
+}

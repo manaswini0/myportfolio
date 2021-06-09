@@ -1,0 +1,36 @@
+.about-container{
+    background: #F4A261;
+
+}
+
+.aboutme-container{
+    background: #F4A261;
+    text-align: center;
+    font-size: 100%;
+    color: black;
+    font-family: "Roboto", monospace;
+    position: absolute;
+    right:1%;
+    left:1%;
+    height: 100vh;
+
+}
+
+.info-container{
+    text-align: left;
+
+    position: absolute;
+    left:5%;
+    right:5%;
+}
+
+.resume-container{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+.heading-container{
+    /*text-decoration: underline;*/
+    font-weight: bold;
+}
